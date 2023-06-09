@@ -1,0 +1,43 @@
+Summarize your lab:
+
+  Part 1:
+     Works No, keeps saying "Error, empty stack!NOT Valid!%" no matter what input I give. I belive the error lies within part1Main.c as I believe I implemented the inStack.c correctly.
+     
+  Part 2:
+     Works  No
+     
+  Part 3:
+     Works  No
+     
+***ANSWERS TO QUESTIONS***
+ Question 1:
+     Which hash table collision resolution method did you use
+     (eg. chaining or open addressing)? Explain your choice
+     briefly (less than 25 words).
+ YOUR ANSWER: If I was able to, I would use the hash table collision resolution method of chaining because it would be easier to implememnt in the sense that it only needs a pointer to entering values when they are continuous. Not to mention, with the chaining method you can add as many elements as you wish without the table becoming full. 
+ 
+ 
+ 
+ 
+ 
+ Question 2:
+       Which hash function (division or multiplication) did you use?
+       How did you convert a string into a number?
+ YOUR ANSWER: I did not use either but if I was to implement one I would use the division method simply because it is more straightforward compared to the multiplication method. Did not convert a string into a number.
+
+ 
+ 
+ 
+ Question 3:
+       Another legal XML tag not used in this lab is the
+       stand-alone tag.  This kind of tag
+       combines both a start-tag and end-tag in one.
+       It is identified with a '/' (slash) preceding the
+       final >.  (For example, the <foo/>
+       is a stand-alone tag that is self balancing.
+       
+       Describe briefly how
+       you would modify Part 3 to allow this kind of tag.
+       
+ YOUR ANSWER: Did not attempt part 3.
+  
