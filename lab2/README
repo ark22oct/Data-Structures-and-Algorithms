@@ -1,0 +1,29 @@
+Abdulrehman Khan
+500968727
+
+Everything works! The towerMain.c was fixed and is free from any bugs and the program compiles/executes succesfully.
+
+
+Requirement 1
+
+Question:
+
+Suppose that towers (5,2,3) is invoked.
+
+1) The first recursive call to towers() will be in the form: towers(4,2,1).
+
+2) 5 recursive calls will be made to towers() before the first recursive call actually returns to the initial invocation.
+
+3) The move made by towers(5,2,3) would be "Move #1: From Tower 2 to Tower 3".
+
+4) The second recursive call to towers() will be in the form: towers(3,2,3).
+
+Question:
+
+Suppose that towers (8,1,2) is invoked. How many lines will be printed to stdout?
+
+1) If towers (8,1,2) is invoked, 255 lines will be printed to stdout. This was gained through the use of: # of moves= 2^(n)-1, where n is the number of disks you wish to move. In our case 2^(8)-1 = 255, Therefore 255 lines to be printed out to stdout. Additionally ran towers 8 1 2 in the termianl and we know the # of moves is equal to the # of lines and for this specific case we got 255 moves therefore 255 lines.
+
+
+
+ 
