@@ -1,0 +1,5 @@
+Everything is working.
+
+
+Answer to question:
+You could write a mySort() function with the signature used in this lab by simply calling betterSort() and forward both the array 0 and the number of elements within the array subtracted by 1 to it. We know mySort is called through mySort(data, nDataItems) and betterSort through betterSort(int data[], first, last). Within the mySort we would have betterSort(d, 0, n-1). By doing so, the items are always sorted from an index of 0 to the last index which is n-1 (number of items subtracted by 1). Thus we are invoking the betterSort() function within the mySort() function.
