@@ -1,0 +1,21 @@
+Name: Abdulrehman Khan
+Student#: 500968727
+
+- Screenshot of personalized state machine assigned in lab4 folder.
+
+- Diagram of personalized state machine in lab4 folder.
+
+- No commands is working, as soon as you type "simState" in terminal it displays the starting state of my personalized state machine which is B.
+
+- One/Zero commands is working, if you type "0" or "1" in terminal it tell you both the former and present state correctly.
+
+- Change command is working, enter "c" followed by either "0" or "1" and than finally the state you wish to use (both uppercase and lower case letters accepted). So if your present state is F and you enter "c0A", it would change the 0 of F which in my state machine is G to A due to the change command. Using the print command before and after making the change will help visualize it easily. NOTE: Avoid putting spaces in between such as: c 0 A or c 1 a. 
+
+- Print command is working, if you type "P" or "p" in the terminal it will print out the current state machine configuration correctly.
+
+- Garbage identify command is not working as I could not fully understand it.
+ 
+- Delete command is not working as I could not fully understand it.
+
+- Stop command was implemented to avoid the message: "There is still a process running in this terminal. Closing the terminal will kill it". Simply press "S" or "s" in the terminal when finished to stop and end the program.   
+
