@@ -3,7 +3,7 @@ Lab work for Data Structures and Algorithms accomplished using C. Feel free to r
 
 Exploring fundamental concepts and advanced techniques essential for effective software development comprehensively. Covering a range of topics, from basic data structures to sophisticated algorithms and software engineering principles, gaining a deep understanding of the tools and methodologies crucial for building robust, scalable systems. Topics covered include basic data structures (arrays, pointers), abstract data structures (trees, lists, heaps), searching, sorting, hashing, recursive algorithms, parsing, space-time complexity, NP-complete problems, software engineering and project management, object-oriented data structures. Case studies and lab exercises will be implemented using a high level programming language.
 
-# Key Objectives:
+# Key Objectives
 1. Structured methods for engineering software design
    
 3. Process of the problem-to-program and an introduction to "big O" and "big Omega" notation.
